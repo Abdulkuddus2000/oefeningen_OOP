@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documenten\\AP24-25\\Sem 2\\OOP\\oefeningen_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61210BC6-9C5D-4E89-9093-8F950113F398}|oefeningen_OOP.csproj|d:\\documenten\\ap24-25\\sem 2\\oop\\oefeningen_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61210BC6-9C5D-4E89-9093-8F950113F398}|oefeningen_OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61210BC6-9C5D-4E89-9093-8F950113F398}|oefeningen_OOP.csproj|d:\\documenten\\ap24-25\\sem 2\\oop\\oefeningen_oop\\mydatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61210BC6-9C5D-4E89-9093-8F950113F398}|oefeningen_OOP.csproj|solutionrelative:mydatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDateTime.cs",
+              "DocumentMoniker": "D:\\Documenten\\AP24-25\\Sem 2\\OOP\\oefeningen_OOP\\MyDateTime.cs",
+              "RelativeDocumentMoniker": "MyDateTime.cs",
+              "ToolTip": "D:\\Documenten\\AP24-25\\Sem 2\\OOP\\oefeningen_OOP\\MyDateTime.cs",
+              "RelativeToolTip": "MyDateTime.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:07:52.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documenten\\AP24-25\\Sem 2\\OOP\\oefeningen_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documenten\\AP24-25\\Sem 2\\OOP\\oefeningen_OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAA///////fvxEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:35:33.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

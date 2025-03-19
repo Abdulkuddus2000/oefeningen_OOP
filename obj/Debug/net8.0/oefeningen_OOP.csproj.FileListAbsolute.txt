@@ -1,0 +1,14 @@
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\obj\Debug\net8.0\oefeningen_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\obj\Debug\net8.0\oefeningen_OOP.AssemblyInfoInputs.cache
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\obj\Debug\net8.0\oefeningen_OOP.AssemblyInfo.cs
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\obj\Debug\net8.0\oefeningen_OOP.csproj.CoreCompileInputs.cache
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\bin\Debug\net8.0\oefeningen_OOP.exe
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\bin\Debug\net8.0\oefeningen_OOP.deps.json
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\bin\Debug\net8.0\oefeningen_OOP.runtimeconfig.json
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\bin\Debug\net8.0\oefeningen_OOP.dll
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\bin\Debug\net8.0\oefeningen_OOP.pdb
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\obj\Debug\net8.0\oefeningen_OOP.dll
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\obj\Debug\net8.0\refint\oefeningen_OOP.dll
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\obj\Debug\net8.0\oefeningen_OOP.pdb
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\obj\Debug\net8.0\oefeningen_OOP.genruntimeconfig.cache
+D:\Documenten\AP24-25\Sem 2\OOP\oefeningen_OOP\obj\Debug\net8.0\ref\oefeningen_OOP.dll
