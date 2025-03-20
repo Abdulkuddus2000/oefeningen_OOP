@@ -1,0 +1,14 @@
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\bin\Debug\net8.0\Figures.exe
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\bin\Debug\net8.0\Figures.deps.json
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\bin\Debug\net8.0\Figures.runtimeconfig.json
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\bin\Debug\net8.0\Figures.dll
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\bin\Debug\net8.0\Figures.pdb
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\obj\Debug\net8.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\obj\Debug\net8.0\Figures.AssemblyInfoInputs.cache
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\obj\Debug\net8.0\Figures.AssemblyInfo.cs
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\obj\Debug\net8.0\Figures.csproj.CoreCompileInputs.cache
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\obj\Debug\net8.0\Figures.dll
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\obj\Debug\net8.0\refint\Figures.dll
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\obj\Debug\net8.0\Figures.pdb
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\obj\Debug\net8.0\Figures.genruntimeconfig.cache
+C:\Users\UITLEEN\Desktop\Ap24-25\oefeningen_OOP\Rectangle\Rectangle\obj\Debug\net8.0\ref\Figures.dll
